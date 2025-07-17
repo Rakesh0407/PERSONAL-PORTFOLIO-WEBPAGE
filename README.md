@@ -10,3 +10,4 @@ The Home section should include a brief introduction with the developer’s name
 The design should follow modern UI/UX principles with a clean layout, readable fonts, and attractive color schemes. CSS must be used to create a consistent visual style, including spacing, typography, and responsive grid layouts. No JavaScript is required for this basic version, although it can be added for enhanced interactivity later. The final deliverable is a functional and aesthetically pleasing single-page developer portfolio.
 <img width="898" height="319" alt="Image" src="https://github.com/user-attachments/assets/139e6332-a1c5-4523-b1ab-e376bc9e15c0" />
 <img width="733" height="207" alt="Image" src="https://github.com/user-attachments/assets/5a97df79-9dee-4b67-a9e5-00b8c08ee118" />
+<img width="747" height="228" alt="Image" src="https://github.com/user-attachments/assets/da475cc5-a388-456f-aa48-36202755b105" />
