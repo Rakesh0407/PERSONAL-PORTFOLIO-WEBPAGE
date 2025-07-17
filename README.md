@@ -11,3 +11,4 @@ The design should follow modern UI/UX principles with a clean layout, readable f
 <img width="898" height="319" alt="Image" src="https://github.com/user-attachments/assets/139e6332-a1c5-4523-b1ab-e376bc9e15c0" />
 <img width="733" height="207" alt="Image" src="https://github.com/user-attachments/assets/5a97df79-9dee-4b67-a9e5-00b8c08ee118" />
 <img width="747" height="228" alt="Image" src="https://github.com/user-attachments/assets/da475cc5-a388-456f-aa48-36202755b105" />
+<img width="561" height="208" alt="Image" src="https://github.com/user-attachments/assets/2d1bff1e-9468-4e0e-907d-50160d5588a2" />
